@@ -1,2 +1,2 @@
 # GitHub-Repo-Jaipal
-My Coding Skills
+Used For Git and GitHub Project
